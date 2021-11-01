@@ -1,7 +1,9 @@
 ### Ola eu sou o ✨Nevermind✨
-
-### 👨‍💻 Neste momento estou a trabalhar com Redm/FiveM ...
-### 👁️ Aprendendo Lua no momento ...
+👨‍💻 Neste momento estou a trabalhar com Redm/FiveM ...
+</div>
+  <div style="display: inline_block"><br>
+<img align="left" alt="Never-pic" height="20" style="border-radius:5px;"src="https://cdn.discordapp.com/attachments/574922050834268166/904570564105105408/1200px-Lua-Logo.svg.png">Aprendendo Lua
+</div>
 
 <div align="left">
   <a href="https://github.com/RalivTV">
