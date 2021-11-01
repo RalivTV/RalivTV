@@ -1,7 +1,7 @@
-### Ola eu sou o ✨Nevermind✨ 👋
+### Ola eu sou o ✨Nevermind✨
 
-# 🔭 Neste momento estou a trabalhar com Redm/FiveM ...
-# 🌱 Aprendendo Lua no momento ...
+### 👨‍💻 Neste momento estou a trabalhar com Redm/FiveM ...
+### 👁️ Aprendendo Lua no momento ...
 
 <div align="center">
   <a href="https://github.com/RalivTV">
@@ -14,9 +14,9 @@
   <img align="center" alt="Never-HTML" height="30" width="70" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="Never-CSS" height="30" width="70" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="right" alt="Never-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/574922050834268166/904554520388980796/desenvolvedor.png">
-</div>
+</div> 
   
-  ##
+  ###
   
 <div> 
 <a href="https://www.youtube.com/channel/UCJDBEY2zPng9f1csLzrQXRg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
