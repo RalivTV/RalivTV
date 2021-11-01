@@ -3,10 +3,10 @@
 ### 👨‍💻 Neste momento estou a trabalhar com Redm/FiveM ...
 ### 👁️ Aprendendo Lua no momento ...
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/RalivTV">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RalivTV&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RalivTV&layout=compact&langs_count=7&theme=merko"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RalivTV&layout=compact💻&langs_count=7&theme=merko"/>
     
 </div>
   <div style="display: inline_block"><br>
@@ -25,4 +25,4 @@
 <a href="https://discord.gg/VkhUUGHpNs" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 </div>
 
-  ![Snake animation](https://github.com/RalivTV/RalivTV/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/RalivTV/RalivTV/blob/output/github-contribution-grid-snake.svg)
