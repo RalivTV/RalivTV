@@ -15,7 +15,7 @@ Learning Lua
 
 <img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/574922050834268166/904576182316576838/code.gif" width="550" height="380" />
 
-- 💼 any freelance work? do reach, [email] jogosnevermind@gmail.com
+- 💼 any freelance work? do reach, jogosnevermind@gmail.com
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
